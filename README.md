@@ -8,3 +8,5 @@ The application is designed with a clean and modern dark theme, making it easy o
 One of the standout features of PlateCapture is its focus on accuracy and efficiency. The system uses advanced image processing techniques to enhance the quality of the captured frames, ensuring that even blurry or low-light images are processed effectively. It also includes a validation system to ensure that only properly formatted license plates are recognized, reducing errors and false positives. The user interface is intuitive, with smooth animations that make the experience enjoyable and professional.
 
 PlateCapture is optimized for mobile devices, making it a perfect tool for on-the-go use. The application handles camera permissions efficiently, providing clear instructions if access is denied and offering a button to enable the camera with a single tap. The responsive design ensures that the interface looks great on any screen size, while the lightweight code ensures smooth performance even on older devices.
+
+a python file, a html template file, a css file, and a javascript file.
