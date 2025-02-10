@@ -1,7 +1,7 @@
 # PlateCapture
 #### Video Demo:  <URL HERE>
 #### Description:
-PlateCapture is an innovative web-based application designed to make license plate recognition simple, accurate, and accessible. Built with cutting-edge technologies like OpenCV and Tesseract OCR, PlateCapture uses your device's camera to detect and read vehicle license plates in real-time. Whether you're managing parking lots, monitoring traffic, or simply exploring the potential of computer vision, PlateCapture provides a user-friendly solution that works seamlessly on both mobile and desktop devices.
+PlateCapture is a web-based application designed to make license plate recognition simple, accurate, and accessible. Built with cutting-edge technologies like OpenCV and Tesseract OCR, PlateCapture uses your device's camera to detect and read vehicle license plates in real-time. Whether you're managing parking lots, monitoring traffic, or simply exploring the potential of computer vision, PlateCapture provides a user-friendly solution that works seamlessly on both mobile and desktop devices.
 
 The application is designed with a clean and modern dark theme, making it easy on the eyes during extended use. When you open PlateCapture, it immediately starts accessing your camera (with your permission) and displays a live video feed. As vehicles pass by, the system automatically detects license plates, draws a bounding box around them, and displays the recognized plate number above the box. The detected plates are then listed in real-time, complete with timestamps, creating a clear and organized record of all recognized vehicles.
 
